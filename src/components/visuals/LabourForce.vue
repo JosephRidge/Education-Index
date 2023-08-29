@@ -37,10 +37,11 @@
             return row ? parseFloat(row.labour_force) : 0;
           });
   
-          const inactivePopulationData = years.map(year => {
-            const row = data.find(item => item.time === year && item.age_group === ageGroup && item.sex === 'female');
-            return row ? parseFloat(row.inactive_population) : 0;
-          });
+         
+          data: ageGroups.map(ageGroup => {
+              const row = data.find(item => item.age_group === ageGroup && item.sex === sex);
+              return row ? row.total_unemployed_population : 0;
+            }),
   
           datasets.push({
             label: `${ageGroup} - Labour Force`,

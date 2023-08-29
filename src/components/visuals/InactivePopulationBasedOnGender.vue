@@ -35,11 +35,11 @@
         const label = `${ageGroup} - ${gender}`;
         const dataPoints = years.map(year => {
           const row = data.find(item => item.year === year && item.age_group === ageGroup && item.sex === gender);
-          return row ? parseFloat(row.population) : 0;
+          return row ? parseFloat(row.total_inactive_population) : 0;
         });
   
         // Check if any data point exists for the dataset
-        if (dataPoints.some(population => population !== 0)) {
+        if (dataPoints.some(total_inactive_population => total_inactive_population !== 0)) {
           return {
             label: label,
             data: dataPoints,
