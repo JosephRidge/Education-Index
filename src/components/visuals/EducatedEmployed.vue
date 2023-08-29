@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Employment Growth Rate by Sex and Economic Activity-ICT Sector</h1>
+      <h1>Employment Trends by Education Level</h1>
       <div class="chart">
         <canvas ref="myChartCanvas"></canvas>
       </div>
@@ -17,43 +17,46 @@
       const myChartCanvas = ref(null);
   
       onMounted(() => {
-        createChart();
+        loadCSVAndCreateChart();
       });
   
-      async function createChart() {
-        const response = await fetch('visuals/growth_rate.csv'); // Use the correct path to your CSV file
+      async function loadCSVAndCreateChart() {
+        const response = await fetch('visuals/emp_edu_data.csv'); // Use the correct path to your CSV file
         const text = await response.text();
   
         const data = Papa.parse(text, { header: true }).data;
   
-  
+        const educationLevels = [...new Set(data.map(row => row.classif2))];
         const years = [...new Set(data.map(row => row.time))];
-        const sexes = ['male', 'female']; // Add more genders if necessary
   
-        const datasets = sexes.map(sex => {
-          const label = sex === 'male' ? 'Male' : 'Female';
-          const growthRates = years.map((year, index) => {
-            if (index === 0) return 0; // Growth rate not applicable for the first year
-            const currentRow = data.find(item => item.time === year && item.sex === sex);
-            const prevRow = data.find(item => item.time === years[index - 1] && item.sex === sex);
-            if (currentRow && prevRow) {
-              const growthRate = ((currentRow.obs_value - prevRow.obs_value) / prevRow.obs_value) * 100;
-              return growthRate;
-            } else {
-              return 0;
-            }
+        const datasets = educationLevels.map(educationLevel => {
+          const label = educationLevel;
+          const dataPoints = years.map(year => {
+            const row = data.find(item => item.time === year && item.classif2 === educationLevel);
+            return row ? parseFloat(row.obs_value) : 0;
           });
   
           return {
             label: label,
-            data: growthRates,
-            borderColor: getRandomColor(),
+            data: dataPoints,
+            borderColor:['rgba(255, 205, 86, 0.8)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.6)',
+                'rgba(153, 102, 255, 0.6)',
+                'rgba(201, 203, 207, 0.6)'],
+            backgroundColor: [
+                'rgba(255, 205, 86, 0.8)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.6)',
+                'rgba(153, 102, 255, 0.6)',
+                'rgba(201, 203, 207, 0.6)'
+    ],
             fill: false,
           };
         });
   
         new Chart(myChartCanvas.value, {
-          type: 'line',
+          type: 'bar',
           data: {
             labels: years,
             datasets: datasets,
@@ -63,9 +66,10 @@
             maintainAspectRatio: false,
             scales: {
               y: {
+                beginAtZero: true,
                 title: {
                   display: true,
-                  text: 'Growth Rate (%)',
+                  text: 'Employment',
                 },
               },
               x: {
@@ -80,7 +84,7 @@
       }
   
       function getRandomColor() {
-        const letters = '0123456789ABCDEF';
+        const letters = '123456789ABCDEF';
         let color = '#';
         for (let i = 0; i < 6; i++) {
           color += letters[Math.floor(Math.random() * 16)];

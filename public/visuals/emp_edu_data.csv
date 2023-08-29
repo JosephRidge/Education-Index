@@ -1,0 +1,41 @@
+indicator.label,sex,classif1.label,classif2,time,obs_value,shares,population,educated_employed_population
+"Employment by sex, age and education (thousands)",male,15-24,Less than basic,2019,192.978,0.1195775024909656,2034689.0,243303.02896584032
+"Employment by sex, age and education (thousands)",male,15-24,basic,2019,912.575,0.5654708792488933,2034689.0,1150557.3778280513
+"Employment by sex, age and education (thousands)",male,15-24,Intermediate,2019,480.223,0.2975669090710805,2034689.0,605456.1166509278
+"Employment by sex, age and education (thousands)",male,15-24,Advanced,2019,25.81,0.01599299059629503,2034689.0,32540.762043384937
+"Employment by sex, age and education (thousands)",male,15-24,Level not stated,2019,2.245,0.0013910989495808733,2034689.0,2830.4537306237576
+"Employment by sex, age and education (thousands)",female,15-24,Less than basic,2019,111.803,0.07980946180741451,1965558.0,156870.12613125806
+"Employment by sex, age and education (thousands)",female,15-24,basic,2019,903.321,0.6448267295988076,1965558.0,1267444.336976773
+"Employment by sex, age and education (thousands)",female,15-24,Intermediate,2019,352.652,0.25173712982038354,1965558.0,494803.92941549345
+"Employment by sex, age and education (thousands)",female,15-24,Advanced,2019,25.181,0.017975206906545485,1965558.0,35331.31173681573
+"Employment by sex, age and education (thousands)",female,15-24,Level not stated,2019,7.916,0.005650758026774714,1965558.0,11106.892645591253
+"Employment by sex, age and education (thousands)",male,15-24,Less than basic,2016,82.072,0.04180824000105957,2150196.0,89895.91041731829
+"Employment by sex, age and education (thousands)",male,15-24,basic,2016,1001.928,0.5103914402936642,2150196.0,1097441.6333536757
+"Employment by sex, age and education (thousands)",male,15-24,Intermediate,2016,815.773,0.4155623522076271,2150196.0,893540.507467431
+"Employment by sex, age and education (thousands)",male,15-24,Advanced,2016,58.715,0.029909967000465602,2150196.0,64312.291404533134
+"Employment by sex, age and education (thousands)",male,15-24,Level not stated,2016,4.57,0.002328000497183476,2150196.0,5005.657357041921
+"Employment by sex, age and education (thousands)",female,15-24,Less than basic,2016,88.594,0.048368516623845434,2005947.0,97024.68081605287
+"Employment by sex, age and education (thousands)",female,15-24,basic,2016,878.715,0.4797406267368258,2005947.0,962334.2709808556
+"Employment by sex, age and education (thousands)",female,15-24,Intermediate,2016,796.887,0.4350660553403878,2005947.0,872719.4485118849
+"Employment by sex, age and education (thousands)",female,15-24,Advanced,2016,62.565,0.034157801234518025,2005947.0,68518.73891297773
+"Employment by sex, age and education (thousands)",female,15-24,Level not stated,2016,4.885,0.002667000064422929,2005947.0,5349.860778228981
+"Employment by sex, age and education (thousands)",male,25+,Less than basic,2019,1417.372,0.1730343144298502,3568065.0,617397.6811161435
+"Employment by sex, age and education (thousands)",male,25+,basic,2019,4085.638,0.4987791280895518,3568065.0,1779676.3496668467
+"Employment by sex, age and education (thousands)",male,25+,Intermediate,2019,2190.411,0.26740775583587273,3568065.0,954128.2543265233
+"Employment by sex, age and education (thousands)",male,25+,Advanced,2019,446.408,0.05449797388123977,3568065.0,194452.31317656577
+"Employment by sex, age and education (thousands)",male,25+,Level not stated,2019,51.449,0.006280949844572464,3568065.0,22410.83730717445
+"Employment by sex, age and education (thousands)",female,25+,Less than basic,2019,1904.779,0.25334362608579647,3370769.0,853962.8411575941
+"Employment by sex, age and education (thousands)",female,25+,basic,2019,4107.539,0.5463199796663163,3370769.0,1841518.4515398494
+"Employment by sex, age and education (thousands)",female,25+,Intermediate,2019,1221.051,0.16240492360304679,3370769.0,547429.4819285184
+"Employment by sex, age and education (thousands)",female,25+,Advanced,2019,263.521,0.03504940241873476,3370769.0,118143.43914159616
+"Employment by sex, age and education (thousands)",female,25+,Level not stated,2019,21.668,0.0028819352218955787,3370769.0,9714.337905973738
+"Employment by sex, age and education (thousands)",male,25+,Less than basic,2016,611.304,0.07773209420564627,3452499.0,268369.97751289955
+"Employment by sex, age and education (thousands)",male,25+,basic,2016,3719.021,0.4729026649993731,3452499.0,1632695.9780076707
+"Employment by sex, age and education (thousands)",male,25+,Intermediate,2016,3076.37,0.391184554086713,3452499.0,1350564.2817998226
+"Employment by sex, age and education (thousands)",male,25+,Advanced,2016,403.135,0.05126177449778376,3452499.0,176981.22519182393
+"Employment by sex, age and education (thousands)",male,25+,Level not stated,2016,54.411,0.006918785052647159,3452499.0,23887.098475479266
+"Employment by sex, age and education (thousands)",female,25+,Less than basic,2016,1167.24,0.15249039292495997,3180809.0,485042.814229249
+"Employment by sex, age and education (thousands)",female,25+,basic,2016,3813.219,0.49816598438960535,3180809.0,1584570.8466403163
+"Employment by sex, age and education (thousands)",female,25+,Intermediate,2016,2383.744,0.3114167259454061,3180809.0,990557.1246376812
+"Employment by sex, age and education (thousands)",female,25+,Advanced,2016,231.202,0.03020465699002484,3180809.0,96075.24479578392
+"Employment by sex, age and education (thousands)",female,25+,Level not stated,2016,59.11,0.007722239750003756,3180809.0,24562.969696969696
