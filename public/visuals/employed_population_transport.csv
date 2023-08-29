@@ -1,0 +1,9 @@
+indicator.label,time,obs_value,age_group,sex,economic_activity,shares,employed_population,sector_employed_population
+"Employment by sex, age and economic activity (thousands)",2019,42.405,15-24,female,Transportation and storage,0.03027,1965558.0,59497.44066
+"Employment by sex, age and economic activity (thousands)",2019,123.395,15-24,male,Transportation and storage,0.076461,2034689.0,155574.355629
+"Employment by sex, age and economic activity (thousands)",2019,171.682,25+,female,Transportation and storage,0.022834,3370769.0,76968.139346
+"Employment by sex, age and economic activity (thousands)",2019,789.858,25+,male,Transportation and storage,0.096427,3568065.0,344057.803755
+"Employment by sex, age and economic activity (thousands)",2019,4.46,15-24,female,Information and communication,0.003184,1965558.0,6258.336672
+"Employment by sex, age and economic activity (thousands)",2019,8.365,15-24,male,Information and communication,0.005183,2034689.0,10545.793087
+"Employment by sex, age and economic activity (thousands)",2019,9.566,25+,female,Information and communication,0.001272,3370769.0,4287.618168
+"Employment by sex, age and economic activity (thousands)",2019,46.926,25+,male,Information and communication,0.005729,3568065.0,20441.444385
