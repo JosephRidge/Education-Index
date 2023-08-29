@@ -1,0 +1,88 @@
+indicator.label,time,obs_value,age_group,sex,economic_activity
+"Employment by sex, age and economic activity (thousands)",2019,1613.832,15-24,male,total
+"Employment by sex, age and economic activity (thousands)",2019,597.013,15-24,male,"Agricullture, forestry and fishing"
+"Employment by sex, age and economic activity (thousands)",2019,15.825,15-24,male,Mining and Quarrying
+"Employment by sex, age and economic activity (thousands)",2019,108.756,15-24,male,Manufacturing
+"Employment by sex, age and economic activity (thousands)",2019,,15-24,male,"Electricity; gas, steam and air conditioning supply"
+"Employment by sex, age and economic activity (thousands)",2019,6.674,15-24,male," Water supply, sewerage, waste management and remediation activities"
+"Employment by sex, age and economic activity (thousands)",2019,137.664,15-24,male,Construction
+"Employment by sex, age and economic activity (thousands)",2019,313.567,15-24,male,Wholesale and retail trade; repair of motor vehicles and motorcycles
+"Employment by sex, age and economic activity (thousands)",2019,123.395,15-24,male,Transportation and storage
+"Employment by sex, age and economic activity (thousands)",2019,53.076,15-24,male,Accommodation and food service activities
+"Employment by sex, age and economic activity (thousands)",2019,8.365,15-24,male,Information and communication
+"Employment by sex, age and economic activity (thousands)",2019,8.048,15-24,male,Financial and insurance activities
+"Employment by sex, age and economic activity (thousands)",2019,2.895,15-24,male,Real estate activities
+"Employment by sex, age and economic activity (thousands)",2019,6.717,15-24,male,"Professional, scientific and technical activities"
+"Employment by sex, age and economic activity (thousands)",2019,32.261,15-24,male,Administrative and support service activities
+"Employment by sex, age and economic activity (thousands)",2019,32.381,15-24,male,"Public administration and defence, compulsory social security"
+"Employment by sex, age and economic activity (thousands)",2019,55.222,15-24,male,Education
+"Employment by sex, age and economic activity (thousands)",2019,18.17,15-24,male,Human health and social work activities
+"Employment by sex, age and economic activity (thousands)",2019,7.677,15-24,male,"Arts, entertainment and recreation"
+"Employment by sex, age and economic activity (thousands)",2019,33.868,15-24,male,Other service activities
+"Employment by sex, age and economic activity (thousands)",2019,50.17,15-24,male,Activities of households
+"Employment by sex, age and economic activity (thousands)",2019,8191.277,25+,male,total
+"Employment by sex, age and economic activity (thousands)",2019,2499.276,25+,male,"Agricullture, forestry and fishing"
+"Employment by sex, age and economic activity (thousands)",2019,86.368,25+,male,Mining and Quarrying
+"Employment by sex, age and economic activity (thousands)",2019,624.965,25+,male,Manufacturing
+"Employment by sex, age and economic activity (thousands)",2019,11.122,25+,male,"Electricity; gas, steam and air conditioning supply"
+"Employment by sex, age and economic activity (thousands)",2019,20.039,25+,male," Water supply, sewerage, waste management and remediation activities"
+"Employment by sex, age and economic activity (thousands)",2019,870.396,25+,male,Construction
+"Employment by sex, age and economic activity (thousands)",2019,1339.036,25+,male,Wholesale and retail trade; repair of motor vehicles and motorcycles
+"Employment by sex, age and economic activity (thousands)",2019,789.858,25+,male,Transportation and storage
+"Employment by sex, age and economic activity (thousands)",2019,218.748,25+,male,Accommodation and food service activities
+"Employment by sex, age and economic activity (thousands)",2019,46.926,25+,male,Information and communication
+"Employment by sex, age and economic activity (thousands)",2019,78.884,25+,male,Financial and insurance activities
+"Employment by sex, age and economic activity (thousands)",2019,31.779,25+,male,Real estate activities
+"Employment by sex, age and economic activity (thousands)",2019,81.609,25+,male,"Professional, scientific and technical activities"
+"Employment by sex, age and economic activity (thousands)",2019,288.936,25+,male,Administrative and support service activities
+"Employment by sex, age and economic activity (thousands)",2019,256.288,25+,male,"Public administration and defence, compulsory social security"
+"Employment by sex, age and economic activity (thousands)",2019,493.444,25+,male,Education
+"Employment by sex, age and economic activity (thousands)",2019,100.363,25+,male,Human health and social work activities
+"Employment by sex, age and economic activity (thousands)",2019,22.505,25+,male,"Arts, entertainment and recreation"
+"Employment by sex, age and economic activity (thousands)",2019,169.97,25+,male,Other service activities
+"Employment by sex, age and economic activity (thousands)",2019,158.833,25+,male,Activities of households
+"Employment by sex, age and economic activity (thousands)",2019,,25+,male,Activities of extraterritorial organizations and bodies
+"Employment by sex, age and economic activity (thousands)",2019,1400.874,15-24,female,total
+"Employment by sex, age and economic activity (thousands)",2019,459.727,15-24,female,"Agricullture, forestry and fishing"
+"Employment by sex, age and economic activity (thousands)",2019,10.441,15-24,female,Mining and Quarrying
+"Employment by sex, age and economic activity (thousands)",2019,95.375,15-24,female,Manufacturing
+"Employment by sex, age and economic activity (thousands)",2019,4.606,15-24,female," Water supply, sewerage, waste management and remediation activities"
+"Employment by sex, age and economic activity (thousands)",2019,59.375,15-24,female,Construction
+"Employment by sex, age and economic activity (thousands)",2019,289.9,15-24,female,Wholesale and retail trade; repair of motor vehicles and motorcycles
+"Employment by sex, age and economic activity (thousands)",2019,42.405,15-24,female,Transportation and storage
+"Employment by sex, age and economic activity (thousands)",2019,78.223,15-24,female,Accommodation and food service activities
+"Employment by sex, age and economic activity (thousands)",2019,4.46,15-24,female,Information and communication
+"Employment by sex, age and economic activity (thousands)",2019,22.452,15-24,female,Financial and insurance activities
+"Employment by sex, age and economic activity (thousands)",2019,,15-24,female,Real estate activities
+"Employment by sex, age and economic activity (thousands)",2019,8.324,15-24,female,"Professional, scientific and technical activities"
+"Employment by sex, age and economic activity (thousands)",2019,25.636,15-24,female,Administrative and support service activities
+"Employment by sex, age and economic activity (thousands)",2019,17.887,15-24,female,"Public administration and defence, compulsory social security"
+"Employment by sex, age and economic activity (thousands)",2019,79.198,15-24,female,Education
+"Employment by sex, age and economic activity (thousands)",2019,25.449,15-24,female,Human health and social work activities
+"Employment by sex, age and economic activity (thousands)",2019,,15-24,female,"Arts, entertainment and recreation"
+"Employment by sex, age and economic activity (thousands)",2019,62.562,15-24,female,Other service activities
+"Employment by sex, age and economic activity (thousands)",2019,111.67,15-24,female,Activities of households
+"Employment by sex, age and economic activity (thousands)",2019,,15-24,female,Not Elsewhere classified
+"Employment by sex, age and economic activity (thousands)",2019,7518.559,25+,female,total
+"Employment by sex, age and economic activity (thousands)",2019,2732.352,25+,female,"Agricullture, forestry and fishing"
+"Employment by sex, age and economic activity (thousands)",2019,49.01,25+,female,Mining and Quarrying
+"Employment by sex, age and economic activity (thousands)",2019,454.123,25+,female,Manufacturing
+"Employment by sex, age and economic activity (thousands)",2019,,25+,female,"Electricity; gas, steam and air conditioning supply"
+"Employment by sex, age and economic activity (thousands)",2019,23.244,25+,female," Water supply, sewerage, waste management and remediation activities"
+"Employment by sex, age and economic activity (thousands)",2019,225.254,25+,female,Construction
+"Employment by sex, age and economic activity (thousands)",2019,1829.506,25+,female,Wholesale and retail trade; repair of motor vehicles and motorcycles
+"Employment by sex, age and economic activity (thousands)",2019,171.682,25+,female,Transportation and storage
+"Employment by sex, age and economic activity (thousands)",2019,340.443,25+,female,Accommodation and food service activities
+"Employment by sex, age and economic activity (thousands)",2019,9.566,25+,female,Information and communication
+"Employment by sex, age and economic activity (thousands)",2019,81.05,25+,female,Financial and insurance activities
+"Employment by sex, age and economic activity (thousands)",2019,23.802,25+,female,Real estate activities
+"Employment by sex, age and economic activity (thousands)",2019,33.27,25+,female,"Professional, scientific and technical activities"
+"Employment by sex, age and economic activity (thousands)",2019,87.189,25+,female,Administrative and support service activities
+"Employment by sex, age and economic activity (thousands)",2019,150.211,25+,female,"Public administration and defence, compulsory social security"
+"Employment by sex, age and economic activity (thousands)",2019,515.375,25+,female,Education
+"Employment by sex, age and economic activity (thousands)",2019,159.041,25+,female,Human health and social work activities
+"Employment by sex, age and economic activity (thousands)",2019,12.371,25+,female,"Arts, entertainment and recreation"
+"Employment by sex, age and economic activity (thousands)",2019,286.629,25+,female,Other service activities
+"Employment by sex, age and economic activity (thousands)",2019,327.24,25+,female,Activities of households
+"Employment by sex, age and economic activity (thousands)",2019,,25+,female,Activities of extraterritorial organizations and bodies
+"Employment by sex, age and economic activity (thousands)",2019,,25+,female,Not Elsewhere classified
