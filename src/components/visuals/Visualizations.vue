@@ -8,15 +8,12 @@
 
     <!-- population -->
     <div><PopulationBasedOnAge/></div>
-    <div><PopulationBetween2015To2024/></div>
-    <!-- (in)active Population -->
-    <div><InactivePopulationBasedOnGender/></div>
-    <!-- labour force -->
-    <div><LabourForce/></div>
-    <div><LabourForceBasedOnGender/></div>
     <!-- employment state -->
     <div><UnemployedPopulation/></div>
     <div><EmployedPopulation/></div>
+    <!-- inactive -->
+    <div><InactivePopulationBasedOnGender/></div>
+    <div><LabourForceBasedOnGender/></div>
     <!-- economic activity -->
     <div><EconomicActivity/></div>
     <!-- transport ans storage sector -->
