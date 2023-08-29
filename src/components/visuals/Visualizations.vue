@@ -22,6 +22,9 @@
     <!-- transport ans storage sector -->
     <div><TransportAndStorage/></div>
 
+    <!-- growth rate -->
+   <div><GrowthRate/></div>
+
 </div>
   </template>
   
@@ -38,6 +41,7 @@
   import EmployedPopulation from './EmployedPopulation.vue'
   import EconomicActivity from './EconomicActivity.vue'
   import TransportAndStorage from './TransportAndStorage.vue'
+  import GrowthRate from './GrowthRate.vue'
   export default {
      components:{
         PopulationBasedOnAge,
@@ -48,7 +52,8 @@
         UnemployedPopulation,
         EmployedPopulation,
         EconomicActivity,
-        TransportAndStorage
+        TransportAndStorage,
+        GrowthRate
 
       },
     setup() {
