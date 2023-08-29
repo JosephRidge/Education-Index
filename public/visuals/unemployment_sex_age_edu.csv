@@ -1,0 +1,89 @@
+indicator.label,classif1.label,classif2.label,time,obs_value,sex
+"Unemployment by sex, age and education (thousands)",15-24,Total,2019,219.596,male
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2019,6.138,male
+"Unemployment by sex, age and education (thousands)",15-24,basic,2019,75.632,male
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2019,109.418,male
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2019,28.407,male
+"Unemployment by sex, age and education (thousands)",25+,Total,2019,273.097,male
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2019,26.716,male
+"Unemployment by sex, age and education (thousands)",25+,basic,2019,135.871,male
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2019,78.323,male
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2019,30.521,male
+"Unemployment by sex, age and education (thousands)",15-24,Total,2019,225.076,female
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2019,5.179,female
+"Unemployment by sex, age and education (thousands)",15-24,basic,2019,87.249,female
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2019,112.96,female
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2019,19.687,female
+"Unemployment by sex, age and education (thousands)",25+,Total,2019,270.589,female
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2019,32.891,female
+"Unemployment by sex, age and education (thousands)",25+,basic,2019,134.024,female
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2019,75.251,female
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2019,28.423,female
+"Unemployment by sex, age and education (thousands)",15-24,Total,2016,154.318,male
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2016,2.368,male
+"Unemployment by sex, age and education (thousands)",15-24,basic,2016,40.67,male
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2016,93.255,male
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2016,17.411,male
+"Unemployment by sex, age and education (thousands)",25+,Total,2016,106.258,male
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2016,8.333,male
+"Unemployment by sex, age and education (thousands)",25+,basic,2016,26.3,male
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2016,54.128,male
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2016,13.93,male
+"Unemployment by sex, age and education (thousands)",15-24,Total,2016,146.959,female
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2016,3.027,female
+"Unemployment by sex, age and education (thousands)",15-24,basic,2016,41.112,female
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2016,86.946,female
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2016,15.875,female
+"Unemployment by sex, age and education (thousands)",25+,Total,2016,140.11,female
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2016,5.91,female
+"Unemployment by sex, age and education (thousands)",25+,basic,2016,43.677,female
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2016,73.645,female
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2016,16.878,female
+"Unemployment by sex, age and education (thousands)",15-24,Total,2006,318.288,male
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2006,79.001,male
+"Unemployment by sex, age and education (thousands)",15-24,basic,2006,154.794,male
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2006,81.317,male
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2006,1.633,male
+"Unemployment by sex, age and education (thousands)",15-24,Level not stated,2006,1.543,male
+"Unemployment by sex, age and education (thousands)",25+,Total,2006,352.52,male
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2006,86.517,male
+"Unemployment by sex, age and education (thousands)",25+,basic,2006,173.291,male
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2006,84.938,male
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2006,6.853,male
+"Unemployment by sex, age and education (thousands)",25+,Level not stated,2006,0.922,male
+"Unemployment by sex, age and education (thousands)",15-24,Total,2006,280.88,female
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2006,54.974,female
+"Unemployment by sex, age and education (thousands)",15-24,basic,2006,132.105,female
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2006,92.683,female
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2006,0.158,female
+"Unemployment by sex, age and education (thousands)",15-24,Level not stated,2006,0.961,female
+"Unemployment by sex, age and education (thousands)",25+,Total,2006,305.11,female
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2006,85.472,female
+"Unemployment by sex, age and education (thousands)",25+,basic,2006,121.667,female
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2006,88.756,female
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2006,5.887,female
+"Unemployment by sex, age and education (thousands)",25+,Level not stated,2006,3.327,female
+"Unemployment by sex, age and education (thousands)",15-24,Total,2005,318.288,male
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2005,79.001,male
+"Unemployment by sex, age and education (thousands)",15-24,basic,2005,154.794,male
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2005,81.317,male
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2005,1.633,male
+"Unemployment by sex, age and education (thousands)",15-24,Level not stated,2005,1.543,male
+"Unemployment by sex, age and education (thousands)",25+,Total,2005,352.52,male
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2005,86.517,male
+"Unemployment by sex, age and education (thousands)",25+,basic,2005,173.291,male
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2005,84.938,male
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2005,6.853,male
+"Unemployment by sex, age and education (thousands)",25+,Level not stated,2005,0.922,male
+"Unemployment by sex, age and education (thousands)",15-24,Total,2005,280.88,female
+"Unemployment by sex, age and education (thousands)",15-24,Less than basic,2005,54.974,female
+"Unemployment by sex, age and education (thousands)",15-24,basic,2005,132.105,female
+"Unemployment by sex, age and education (thousands)",15-24,Intermediate,2005,92.683,female
+"Unemployment by sex, age and education (thousands)",15-24,Advanced,2005,0.158,female
+"Unemployment by sex, age and education (thousands)",15-24,Level not stated,2005,0.961,female
+"Unemployment by sex, age and education (thousands)",25+,Total,2005,305.11,female
+"Unemployment by sex, age and education (thousands)",25+,Less than basic,2005,85.472,female
+"Unemployment by sex, age and education (thousands)",25+,basic,2005,121.667,female
+"Unemployment by sex, age and education (thousands)",25+,Intermediate,2005,88.756,female
+"Unemployment by sex, age and education (thousands)",25+,Advanced,2005,5.887,female
+"Unemployment by sex, age and education (thousands)",25+,Level not stated,2005,3.327,female

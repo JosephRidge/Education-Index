@@ -22,6 +22,8 @@
     <!-- growth rate -->
    <div><GrowthRate/></div>
 
+   <div><EducatedEmployed/></div>
+
 </div>
   </template>
   
@@ -39,6 +41,7 @@
   import EconomicActivity from './EconomicActivity.vue'
   import TransportAndStorage from './TransportAndStorage.vue'
   import GrowthRate from './GrowthRate.vue'
+  import EducatedEmployed from "./EducatedEmployed.vue"
   export default {
      components:{
         PopulationBasedOnAge,
@@ -50,7 +53,8 @@
         EmployedPopulation,
         EconomicActivity,
         TransportAndStorage,
-        GrowthRate
+        GrowthRate,
+        EducatedEmployed
 
       },
     setup() {
