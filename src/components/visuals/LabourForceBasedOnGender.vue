@@ -34,7 +34,7 @@
           const label = gender === 'male' ? 'Male Labour Force' : 'Female Labour Force';
           const dataPoints = years.map(year => {
             const row = data.find(item => item.time === year && item.sex === gender);
-            return row ? parseFloat(row.labour_force) : 0;
+            return row ? parseFloat(row.total_employed_population) : 0;
           });
   
           return {
